@@ -3,7 +3,7 @@
 ## Goal
 My Todo List 만들기
 
-[React 입문 주차 개인 과제](https://www.notion.so/React-f8cb108d179d4c06978bc4d8579e1fec) 를 `react-router-dom`, `styled-components`, `redux`를 사용해서 My Todo List 를 다시 만들어봅니다.
+[React 입문 주차 개인 과제]를 `react-router-dom`, `styled-components`, `redux`를 사용해서 My Todo List 를 다시 만들어봅니다.
 
 ## features : 구현 기능
 
